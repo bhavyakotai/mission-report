@@ -1,0 +1,11 @@
+{
+  "name": "Shackleton Crater High-Res Local Inset",
+  "resolution_m": 80.0,
+  "width": 256,
+  "height": 256,
+  "span_km": 20.48,
+  "center_x_m": 7690.0,
+  "center_y_m": -6402.0,
+  "elevation_min_m": -2868.79736328125,
+  "elevation_max_m": 1703.1285400390625
+}

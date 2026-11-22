@@ -1,0 +1,25 @@
+{
+  "dataset_name": "NASA LRO LOLA South Pole Digital Elevation Model",
+  "citation": "Barker et al., 2023 Planet. Sci. J., 4, 183. https://doi.org/10.3847/PSJ/acf3e1",
+  "data_doi": "10.60903/gsfcpgda-lola-spole",
+  "source_archive": "NASA Planetary Geodesy Data Archive (PGDA Product 90)",
+  "source_file": "LDEM_80S_80MPP_ADJ.TIF",
+  "grid_size": 475,
+  "grid_resolution_m": 1280.0,
+  "bounding_box_m": {
+    "left": -304000.0,
+    "bottom": -304000.0,
+    "right": 304000.0,
+    "top": 304000.0
+  },
+  "coverage_lat": "80\u00b0S to 90\u00b0S",
+  "coverage_km": "608 km x 608 km",
+  "reference_radius_m": 1737400.0,
+  "crs": "IAU:30135 (Moon 2015 Sphere / Ocentric / South Polar Stereographic)",
+  "elevation_min_m": -7166.015625,
+  "elevation_max_m": 6974.60546875,
+  "elevation_mean_m": -1500.652099609375,
+  "elevation_std_m": 2058.943603515625,
+  "scene_scale_multiplier": 0.0003289473684210526,
+  "landmarks_count": 13
+}
